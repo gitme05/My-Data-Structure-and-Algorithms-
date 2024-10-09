@@ -104,7 +104,7 @@ class Queue {
 
 
 // Main class to test queue operations
-public class Main{
+public class QueueLinkedList{
 
     public static void main(String[] args) {
         Queue queue = new Queue();
