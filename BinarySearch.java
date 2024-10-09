@@ -1,7 +1,7 @@
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class BinarySearchProgram {
+public class BinarySearch {
 
     // Binary search method (with internal sorting)
     public static int binarySearch(int[] array, int target, int low, int high) {
