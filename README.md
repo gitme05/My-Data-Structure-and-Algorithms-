@@ -12,7 +12,7 @@ The **Student List Manager** is a simple Java console application that organizes
 This application was created to demonstrate the practical application of tree data structures. It organizes student information systematically, making it easier to access and manage data. The project serves as a learning tool for understanding the basics of tree structures and their real-world use.
 
 ## How It Contributes
-- **To the Developer:** Improves programming and problem-solving skills by applying tree structures in Java.
+- **To Me (the Developer):** This project has helped me improve my programming and problem-solving skills by applying tree structures in Java.
 - **To the Community:** Can be adapted by schools or organizations to manage student or member lists effectively.
 
 ## How It Works
