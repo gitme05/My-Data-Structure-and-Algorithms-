@@ -11,7 +11,7 @@ class TreeNode {
     }
 }
 
-public class SimpleStudentManager {
+public class StudentListManager {
     private static TreeNode root = new TreeNode("Students");
 
     public static void main(String[] args) {
